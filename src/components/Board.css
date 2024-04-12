@@ -1,0 +1,18 @@
+.board-container {
+  margin: 300px;
+}
+
+.board-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.playerDetails {
+  text-align: center;
+  font-size: 30px;
+}
+.playerDetails button {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 30px;
+}
